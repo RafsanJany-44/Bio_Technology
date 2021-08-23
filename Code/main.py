@@ -1,3 +1,3 @@
 import pyhrv
 
-print("hllo")
+print("hllo")$ pip install pyhrv
