@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83d46295-7632-4d8c-a0e9-de76ebe01230" name="Changes" comment="" />
+    <list default="true" id="83d46295-7632-4d8c-a0e9-de76ebe01230" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/.idea/brainflow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/META-INF/maven/org.brainflow/brainflow/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/META-INF/maven/org.brainflow/brainflow/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/AggOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/BoardController.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/BoardDescr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/BoardIds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/BoardShim$DllInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/BoardShim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/BrainBitLib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/BrainFlowClassifiers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/BrainFlowError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/BrainFlowInputParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/BrainFlowMetrics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/BrainFlowModelParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/DataFilter$DllInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/DataFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/DataHandler.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/DetrendOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/ExitCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/FilterTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/GanglionLib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/IpProtocolType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/LogLevels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/MLModel$DllInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/MLModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/MLModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/MuseLib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/NoiseTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/Unicorn.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/WindowFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/brainflow_svm.model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/eego-SDK.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/eego-SDK32.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/BandPower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/BandPowerAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/BrainFlowGetData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/CSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/Denoising.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/Downsampling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/EEGMetrics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/EEGMetricsCi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/Markers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/Serialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/SignalFiltering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/Transforms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/examples/Windowing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/gForceSDKWrapper.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/gforce64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libBoardController.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libBoardController.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libBrainBitLib.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libBrainBitLib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libBrainFlowBluetooth.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libBrainFlowBluetooth.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libDataHandler.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libDataHandler.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libGanglionLib.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libGanglionLib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libMLModule.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libMLModule.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libMuseLib.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libMuseLib.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libeego-SDK.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libneurosdk-shared.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libunicorn.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/libunicorn_raspberry.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/brainflow/neurosdk-x64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ganglion_java/brainflow/module-info.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
